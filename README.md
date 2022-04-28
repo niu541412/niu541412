@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/niu541412/niu541412/output/github-contribution-grid-snake.svg)
+![https://github.com/Platane/snk](https://raw.githubusercontent.com/niu541412/niu541412/output/github-contribution-grid-snake.svg)
 
 <!--
 **niu541412/niu541412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
